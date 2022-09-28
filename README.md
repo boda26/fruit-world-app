@@ -1,5 +1,5 @@
 # fruit_world_app
-### FruitWorld is an iOS mobile application for users to discover their favorite fruit. Users can find images, descriptions and nutriention information of all the fruits from the application.
+### FruitWorld is an iOS mobile application for users to discover their favorite fruit. Users can find images, descriptions and nutrition information of all the fruits from the application.
 
 An overview of the app\
 <img src="https://user-images.githubusercontent.com/54991825/179423859-298a71aa-4146-45fa-9312-c46fcb1c410a.png" alt="drawing" width="300"/>
